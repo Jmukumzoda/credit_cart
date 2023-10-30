@@ -22,7 +22,7 @@ function reload(massiv) {
 
         article.classList.add('grid')
         if (item.id == 1) {
-            article.classList.add('cart_gridgi')
+            article.classList.add('cart_grid')
         }
         if (item.id === 2) {
             article.style.background = " linear-gradient(84deg, #5F0A87 2.27%, #A4508B 92.26%)"
