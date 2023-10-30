@@ -1,0 +1,149 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: Gilroy;
+}
+
+.head {
+    background: #F0F0F0;
+    width: 100%;
+    height: 60px;
+
+}
+
+.head a {
+    color: #000000;
+}
+
+.container {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.head_ul {
+    padding-top: 16px;
+    display: flex;
+    gap: 45px;
+    align-items: center;
+}
+
+.navbar {
+    width: 80%;
+}
+
+.email {
+    padding-top: 16px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+}
+
+.container_cart {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.sec1 {
+    margin-top: 30px;
+}
+
+.text {
+    line-height: 45px;
+}
+
+.text h1 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.text a {
+    font-size: 18px;
+}
+
+.credit_cart {
+    margin-top: 80px;
+}
+
+.grid {
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    width: 240px;
+    height: 110px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    font-weight: 500;
+    border-radius: 15px;
+    background: linear-gradient(84deg, #20BF55 2.27%, #01BAEF 92.26%);
+
+}
+
+.cart {
+    display: flex;
+    gap: 30px;
+}
+
+.cart_grid {
+    background: linear-gradient(84deg, #D7816A 2.27%, #BD4F6C 92.26%);
+}
+
+.cart_grid2 {
+    background: linear-gradient(84deg, #5F0A87 2.27%, #A4508B 92.26%);
+}
+
+.credit_cart h2 {
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.grid_p {
+    line-height: 160px;
+}
+
+.credit_cart a {
+    line-height: 50px;
+}
+
+.container_Transactions {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.sec2 {
+    margin-top: 30px;
+    height: 700px;
+}
+
+.text_Transactions h2 {
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+tr {
+    display: flex;
+    gap: 135px;
+}
+.tr_reload {
+    display: flex;
+    gap: 195px;
+}
+table {
+    margin-top: 40px;
+}
+
+
+th {
+    color: #949494;
+    padding: 5px;
+}
