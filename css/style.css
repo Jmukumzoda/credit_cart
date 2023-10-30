@@ -31,7 +31,7 @@
 }
 
 .navbar {
-    width: 80%;
+    width: 85%;
 }
 
 .email {
@@ -146,4 +146,7 @@ table {
 th {
     color: #949494;
     padding: 5px;
+}
+.sec2 a ,.sec1 a{
+    line-height: 120px;
 }
