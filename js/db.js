@@ -1,6 +1,6 @@
 let arr = [
     {
-        id:1232312,
+        id: 1,
         cart_name: "Visa",
         cart_amount: "Rub",
         cart_Category: "Car",
@@ -8,14 +8,14 @@ let arr = [
         cart_time: "4 days ago",
     },
     {
-        id:1232312,
+        id: 2,
         cart_name: "Visa",
         cart_amount: "Rub",
         cart_Category: "Car",
         cart_Transaction_amount: "414,000,000",
         cart_time: "4 days ago",
     }, {
-        id:1232312,
+        id: 3,
         cart_name: "Visa",
         cart_amount: "Rub",
         cart_Category: "Car",

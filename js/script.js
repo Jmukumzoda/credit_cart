@@ -21,7 +21,12 @@ function reload(massiv) {
 
 
         article.classList.add('grid')
-        article.style.background=" linear-gradient(84deg, #5F0A87 2.27%, #A4508B 92.26%)"
+        if (item.id == 1) {
+            article.style.background = "background: linear-gradient(84deg, #D7816A 2.27%, #BD4F6C 92.26%)"
+        }
+        if (item.id === 2) {
+            article.style.background = " linear-gradient(84deg, #5F0A87 2.27%, #A4508B 92.26%)"
+        }
         tr.classList.add('tr_reload')
         th.classList.add('th')
         p.classList.add('grid_p')
